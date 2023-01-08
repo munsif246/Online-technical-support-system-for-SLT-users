@@ -1,0 +1,60 @@
+body{
+	background-image:url("../images/form.jpg");
+	background-size:cover;
+	margin:0;
+	background-repeat:no-repeat;
+	background-position: center;
+	font-family: sans-serif;
+	opacity: 0.9;
+}
+
+.form{
+	background:black;
+	width:40%;
+	color:white;
+	margin-top:100px;
+	margin-left:400px;
+	opacity:0.8;
+	font-size:20px;
+	border-radius:20px;
+	padding-left:5px;
+	padding:10px;
+}
+
+.top{
+	background:black;
+	width:1520px;
+	height:70px;
+	color:white;
+	
+}
+
+.top2{
+	background:grey;
+	width:1800px;
+	height:22px;
+	opacity:1;
+	padding-left:50px;
+}
+
+.top img{
+	float:left;
+	
+}
+
+.bottom{
+	background:black;
+	width:1520px;
+	height:30px;
+	color:white;
+	margin-top:180px;
+	padding-top:5px;	
+}
+
+.er{
+	
+  	margin-left: 20px;
+  	
+ 	width: 70%;
+	color:red;
+}

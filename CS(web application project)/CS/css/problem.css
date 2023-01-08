@@ -1,0 +1,38 @@
+body{
+	background-image:url("../images/veeterzy.jpg");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size: cover;
+	
+	font-family: sans-serif;
+	opacity: 0.9;
+  	
+	
+}
+
+.back1{
+	margin-left:150px;
+	padding-left:25px;
+	padding-right:25px;
+	padding-top:25px;
+	padding-bottom:25px;
+	background-color:black;
+	width:880px;
+	opacity:0.8;
+	border-radius:10px;
+	font-size:20px;
+	color:white
+}
+
+table{
+	width:100%;
+	
+}
+
+th.issue{
+	width:50%;
+}
+
+.issue1{
+	width:50%;
+}

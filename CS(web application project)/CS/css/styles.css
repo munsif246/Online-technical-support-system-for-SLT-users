@@ -1,0 +1,83 @@
+h1{
+	font-size:26px;
+	face:calibri;
+	text-align:center;
+}
+
+.p1{
+	font-size:22px;
+	face:calibri;
+	text-align:center;
+}
+
+body{
+	background-image:url('../images/domenico.png');
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:100% 100%;
+}
+
+div{
+	margin:auto;
+	width:500px;
+}
+
+.contact{
+	display:inline-block;
+	background:black;
+	background-opacity:0.8;
+	width:500px;
+	border:5px solid lightgrey;
+	padding:25px;
+	opacity:0.7;
+	border-radius:60px;
+}
+
+.center{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+ 	
+}
+
+.visit{
+	display:inline-block;
+	background:black;
+	background-opacity:0.8;
+	width:500px;
+	border:5px solid lightgrey;
+	padding:10px;
+	opacity:0.7;
+	border-radius:60px;
+}
+
+.map{
+	border:10px solid lightgrey;
+	border-radius:5px;
+	width:500px;
+	height:500px;
+  	margin-left: auto;
+  	margin-right: auto;
+ 	
+}
+
+.building{
+	border:10px solid lightgrey;
+	border-radius:5px;
+	width:750px;
+	height:250px;
+ 	
+}
+
+.history{
+	display:inline-block;
+	background:black;
+	background-opacity:0.8;
+	width:900px;
+	border:5px solid lightgrey;
+	padding:25px;
+	opacity:0.8;
+	border-radius:60px;
+	margin-left:305px;
+	
+}
